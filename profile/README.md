@@ -1,6 +1,13 @@
 ## Lan Tabur Project 
 
 ### This repository for internal Lan Tabur Project @ Pagaralam. 
+- Lan Tabur Management System - ltms
+- Lan Tabur Database - ltdb
+- Lan Tabur Website - yayasan 
+- Lan Tabur Rest API - 
+
+for more information visit [Lan Tabur Website](https://lantabur.sch.id)
+
 
 <!--
 
